@@ -7,7 +7,7 @@ Hello, I’m Keenan Nicholson
 
 💻 **Interests**
 
-- I am interested enrvironmental data, mapping, AI.
+- I am interested in many things, lately I have been trying my hand at some data processing, messing about with QGIS and maps, and AI.
 
 📬 **Contact***
 
