@@ -9,6 +9,6 @@
 
 - I am interested in many things, lately I have been trying my hand at some data processing, messing about with QGIS and maps, and AI.
 
-📬 **Contact***
+📬 **Contact**
 
 - You can reach me by search East Coast Trails for a man with a golden retriever or email @ keenanbnicholson@gmail.com
