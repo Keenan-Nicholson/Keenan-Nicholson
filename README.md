@@ -11,4 +11,4 @@
 
 📬 **Contact**
 
-- You can reach me by search East Coast Trails for a man with a golden retriever or email @ keenanbnicholson@gmail.com
+- You can reach me by searching East Coast Trails for a man with a golden retriever or email @ keenanbnicholson@gmail.com
