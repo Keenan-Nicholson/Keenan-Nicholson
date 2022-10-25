@@ -3,7 +3,7 @@
 
 📚 **Education**
 
-- Completed a BSc with a major in Computational Math, working toward a BA with major in Computer Science minor in Geography. 
+- Completed a BSc with a major in Computational Math, working toward a BA major in Computer Science, minor in Geography. 
 
 💻 **Interests**
 
