@@ -14,4 +14,6 @@
 - You can reach me by searching East Coast Trails for a man with a golden retriever or email @ keenanbnicholson@gmail.com
 
 
+### Holopin Badges
+
 [![@keebord's Holopin board](https://holopin.me/keebord)](https://holopin.io/@keebord)
