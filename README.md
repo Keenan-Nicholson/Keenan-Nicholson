@@ -7,7 +7,7 @@
 
 💻 **Interests**
 
-- I am interested in many things, lately I have been trying my hand at some data processing, messing about with QGIS and maps, and AI.
+- I am interested in many things but lately I have been trying my hand at some frontend development and learning React.js, data processing and visualization, and messing about with QGIS and maps.
 
 📬 **Contact**
 
