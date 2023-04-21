@@ -10,7 +10,7 @@
 
 💻 **Interests**
 
-- I am interested in many things but lately I have been trying my hand at some frontend development and learning React.js, data processing and visualization, and messing about with QGIS and maps.
+- I am interested in many things but lately I have been trying my hand at some frontend development and learning React.js, Three.js, data processing and visualization, and messing about with ArcGIS and maps.
 
 📬 **Contact**
 
