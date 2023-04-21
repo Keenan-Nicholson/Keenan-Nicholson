@@ -1,9 +1,12 @@
 ### Hello, I’m Keenan Nicholson
 
+🛰️ **Work**
+
+- Currently I am on C-CORE's Earth Observation team analyzing satellite imagery to monitor ship, sea ice, iceberg and river ice activity.
 
 📚 **Education**
 
-- Completed a BSc with a major in Computational Math, working toward a BA major in Computer Science, minor in Geography. 
+- BSc with a major in Computational Math, working toward a BA major in Computer Science, minor in Geography. 
 
 💻 **Interests**
 
