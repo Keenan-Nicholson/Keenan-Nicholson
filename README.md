@@ -10,7 +10,7 @@
 
 💻 **Interests**
 
-- I am interested in many things but lately I have been trying my hand at some frontend development and learning React.js, Three.js, data processing and visualization, and messing about with ArcGIS and maps.
+- I am interested in many things but lately I have been focusing on frontend development and React.js. In my free time I have been playing around with Rust, hiking East Coast Trails, and binging horror movies.
 
 📬 **Contact**
 
