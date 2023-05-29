@@ -16,12 +16,5 @@
 
 - You can reach me by searching East Coast Trails for a man with a golden retriever or email @ keenanbnicholson@gmail.com
 
-## GitHub Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=keenan-nicholson&show_icons=true&theme=radical)
-
-## Top Languages
-[![Your Repository's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keenan-nicholson&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
 | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=keenan-nicholson&show_icons=true&theme=radical) | [![Your Repository's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keenan-nicholson&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) |
 |:---:|:---:|
