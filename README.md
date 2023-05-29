@@ -19,3 +19,6 @@
 ## GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=keenan-nicholson&show_icons=true&theme=radical)
+
+## Top Languages
+[![Your Repository's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keenan-nicholson&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
