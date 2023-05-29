@@ -24,11 +24,3 @@
 ## Most Used Languages
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Keenan-Nicholson&theme=blue-green)
-
-## Contributors Badge
-
-![Your Repository's Stats](https://contrib.rocks/image?repo=Keenan-Nicholson/Python)
-
-## Profile View Counter
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=Keenan-Nicholson)
