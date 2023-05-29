@@ -23,15 +23,3 @@
 ## Most Used Languages
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Keenan-Nicholson&theme=blue-green)
-
-<section data-markdown>
-  <textarea data-template>
-## GitHub Stats
-    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
-      <div>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Keenan-Nicholson&icons=true)
-</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 2</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div>Item 3</div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-    </div>
-  </textarea>
-</section>
