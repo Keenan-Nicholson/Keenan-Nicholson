@@ -19,7 +19,7 @@
 
 ## GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Keenan-Nicholson_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Keenan-Nicholson&icons=true)
 
 ## Most Used Languages
 
