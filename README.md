@@ -18,8 +18,4 @@
 
 ## GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Keenan-Nicholson&icons=true)
-
-## Most Used Languages
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Keenan-Nicholson&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=keenan-nicholson&show_icons=true&theme=radical)
