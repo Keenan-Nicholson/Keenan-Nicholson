@@ -16,10 +16,10 @@
 
 - You can reach me by searching East Coast Trails for a man with a golden retriever or email @ keenanbnicholson@gmail.com
 
-
-## GitHub Stats
+<div> ## GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Keenan-Nicholson&icons=true)
+</div display="flex">
 
 ## Most Used Languages
 
