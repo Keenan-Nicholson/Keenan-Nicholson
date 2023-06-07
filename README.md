@@ -6,7 +6,7 @@
 
 📚 **Education**
 
-- BSc major in Computational Math, working toward a BA major in Computer Science, minor in Geography. 
+- BSc major in Computational Math, in my final semester of a BA major in Computer Science, minor in Geography. 
 
 💻 **Interests**
 
