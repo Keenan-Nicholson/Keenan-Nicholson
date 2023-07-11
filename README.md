@@ -2,7 +2,7 @@
 
 🛰️ **Work**
 
-- I am currently a part of C-CORE's Earth Observation team analyzing satellite imagery to monitor iceberg and river ice activity.
+- I am currently a part of C-CORE's Earth Observation team performing full stack web development tasks and analyzing satellite imagery to monitor iceberg and river ice activity.
 
 📚 **Education**
 
