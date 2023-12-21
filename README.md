@@ -1,8 +1,8 @@
 ### Hello, I’m Keenan Nicholson
 
 🛰️ **Work**
-
-- I am curretly a part of C-CORE's Earth Observation team performing full stack web development tasks and analyzing satellite imagery to monitor iceberg, river ice and emissions activity.
+- Software developer at Resource Innovations
+- Previously on C-CORE's Earth Observation team
 
 📚 **Education**
 
