@@ -10,7 +10,7 @@
 
 💻 **Interests**
 
-- I am interested in many things but lately I have been focusing on frontend development and React.js. In my free time I have been building an app for sharing hikes with friends, hiking East Coast Trails, and binging horror movies.
+- Full stack development, hiking, camping, football and b-movies.
 
 📬 **Contact**
 
