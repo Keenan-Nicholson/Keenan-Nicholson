@@ -6,15 +6,16 @@
 
 📚 **Education**
 
-- BA major in Computer Science, minor in Geography. BSc major in Computational Mathematics.
+- BA major in Computer Science, minor in Geography 2023.
+- BSc major in Computational Mathematics 2020.
 
 💻 **Interests**
 
-- Full stack development, hiking, camping, football and b-movies.
+- Data driven full stack development, hiking, camping, football and b-movies.
 
 📬 **Contact**
 
-- You can reach me by searching East Coast Trails for a man with a golden retriever or email @ keenanbnicholson@gmail.com
+- You can reach me by email @ keenanbnicholson@gmail.com
 ---
 
 
