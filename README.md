@@ -9,7 +9,7 @@
 - BA major in Computer Science, minor in Geography 2023
 - BSc major in Computational Mathematics 2020
 
-💻 **Interests**
+🏕️ **Interests**
 
 - Data driven full stack development, hiking, camping, football and b-movies
 
