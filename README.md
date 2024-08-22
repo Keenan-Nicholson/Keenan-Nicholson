@@ -11,7 +11,7 @@
 
 🏕️ **Interests**
 
-- Data driven full stack development, hiking, camping, football and b-movies
+- Data, drone, full-stack dev, hiking, camping, football and b-movies
 
 📬 **Contact**
 
