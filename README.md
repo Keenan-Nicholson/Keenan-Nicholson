@@ -11,7 +11,7 @@
 
 🏕️ **Interests**
 
-- Data, drone, full-stack dev, hiking, camping, football and b-movies
+- Data, drones, full-stack dev, hiking, camping, football and b-movies
 
 📬 **Contact**
 
