@@ -1,8 +1,8 @@
 ### Hello, I’m Keenan Nicholson
 
 💻 **Work**
-- Software developer at Resource Innovations
-- Previously on C-CORE's Earth Observation team
+- Looking
+- Formerly: Software developer at Resource Innovations & Image Analyst at C-CORE
 
 📚 **Education**
 
