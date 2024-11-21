@@ -1,7 +1,7 @@
 ### Hello, I’m Keenan Nicholson
 
 💻 **Work**
-- Geospatial Research Assistant @ NRCAN
+- Geospatial Research Assistant @ NRCan
 - Formerly: Software developer at Resource Innovations & Image Analyst at C-CORE
 
 📚 **Education**
