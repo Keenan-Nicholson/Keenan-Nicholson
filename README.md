@@ -13,9 +13,6 @@
 
 - Data, drones, full-stack dev, hiking, camping, football and b-movies
 
-📬 **Contact**
-
-- You can reach me by email @ keenanbnicholson@gmail.com
 ---
 
 
