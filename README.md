@@ -1,8 +1,7 @@
 ### Hey, I'm Keenan
 
 💻 **Work**
-- Geospatial Research Assistant @ NRCan
-- Formerly: Software developer at Resource Innovations & Image Analyst at C-CORE
+- Geospatial Research Assistant @ NRCan working with remotely sensed data to help drive sustainable forestry practices.
 
 📚 **Education**
 
