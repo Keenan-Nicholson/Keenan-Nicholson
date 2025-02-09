@@ -1,4 +1,4 @@
-### Hello, I’m Keenan Nicholson
+### Hey, I'm Keenan
 
 💻 **Work**
 - Geospatial Research Assistant @ NRCan
