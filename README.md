@@ -10,7 +10,7 @@
 
 🏕️ **Interests**
 
-- Data 📈 drones 📷 hiking 🏞️ camping ⛺ football 🐏 and b-movies 🎥
+- Data 📊 drones 📷 hiking 🏞️ camping ⛺ D&D 🎲🐉 football 🏈🐏
 
 ---
 
