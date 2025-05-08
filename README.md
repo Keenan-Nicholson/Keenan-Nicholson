@@ -1,19 +1,19 @@
-### Hey, I'm Keenan
+Hey, I'm Keenan 👋
+💻 Work
 
-💻 **Work**
-- Geospatial Research Assistant @ NRCan working with remotely sensed data to help drive sustainable forestry practices.
+Open to new opportunities in data science 📊
 
-📚 **Education**
+Previously worked with Natural Resources Canada, Resource Innovations, and C-CORE, leveraging remotely sensed data to support research and industry.
 
-- BA major in Computer Science, minor in Geography 2023
-- BSc major in Computational Mathematics 2020
+📚 Education
 
-🏕️ **Interests**
+B.A. in Computer Science (minor in Geography), 2023
 
-- Data 📊 drones 📷 hiking 🏞️ camping ⛺ D&D 🎲🐉 football 🏈🐏
+B.Sc. in Computational Mathematics, 2020
 
----
+🏕️ Interests
 
+Data science 📊, drones 📷, hiking 🏞️, camping ⛺, D&D 🎲🐉, football 🏈🐏
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keenan-nicholson&hide=jupyter%20notebook&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5&card_width=250" alt="Top Languages (public)" style="display: inline-block; margin-right: 20px; height: 200px;">
